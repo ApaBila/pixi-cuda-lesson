@@ -1,0 +1,9 @@
+name: default
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- python >=3.13.5,<3.14
+- numpy >=2.3.2,<3
+- notebook >=7.4.5,<8
+- jupyterlab >=4.4.5,<5
